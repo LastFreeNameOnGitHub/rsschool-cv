@@ -1,1 +1,1 @@
-# rsschool-cv
+https://LastFreeNameOnGitHub.github.io/rsschool-cv/cv
